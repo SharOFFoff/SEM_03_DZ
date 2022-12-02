@@ -1,0 +1,15 @@
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\Task_Dop_496.csproj.AssemblyReference.cache
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\Task_Dop_496.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\Task_Dop_496.AssemblyInfoInputs.cache
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\Task_Dop_496.AssemblyInfo.cs
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\Task_Dop_496.csproj.CoreCompileInputs.cache
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\bin\Debug\net6.0\Task_Dop_496.exe
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\bin\Debug\net6.0\Task_Dop_496.deps.json
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\bin\Debug\net6.0\Task_Dop_496.runtimeconfig.json
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\bin\Debug\net6.0\Task_Dop_496.dll
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\bin\Debug\net6.0\Task_Dop_496.pdb
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\Task_Dop_496.dll
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\refint\Task_Dop_496.dll
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\Task_Dop_496.pdb
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\Task_Dop_496.genruntimeconfig.cache
+C:\Users\Sharov\Desktop\SEM_03_DZ\Task_Dop_496\obj\Debug\net6.0\ref\Task_Dop_496.dll
